@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Youview-app/static/css/main.91c2eb7d.css",
+    "main.js": "/Youview-app/static/js/main.da54973e.js",
+    "index.html": "/Youview-app/index.html",
+    "main.91c2eb7d.css.map": "/Youview-app/static/css/main.91c2eb7d.css.map",
+    "main.da54973e.js.map": "/Youview-app/static/js/main.da54973e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91c2eb7d.css",
+    "static/js/main.da54973e.js"
+  ]
+}
