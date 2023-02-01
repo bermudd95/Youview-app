@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Youview-app/static/css/main.91c2eb7d.css",
-    "main.js": "/Youview-app/static/js/main.d3b4c920.js",
+    "main.js": "/Youview-app/static/js/main.043b8a4d.js",
     "index.html": "/Youview-app/index.html",
     "main.91c2eb7d.css.map": "/Youview-app/static/css/main.91c2eb7d.css.map",
-    "main.d3b4c920.js.map": "/Youview-app/static/js/main.d3b4c920.js.map"
+    "main.043b8a4d.js.map": "/Youview-app/static/js/main.043b8a4d.js.map"
   },
   "entrypoints": [
     "static/css/main.91c2eb7d.css",
-    "static/js/main.d3b4c920.js"
+    "static/js/main.043b8a4d.js"
   ]
 }
